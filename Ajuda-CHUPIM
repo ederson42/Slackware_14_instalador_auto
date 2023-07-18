@@ -7,28 +7,28 @@ ____________________
 Instalando o gerenciador CHUPIM
 ____________________
 
-Primeiramente você precisa dos "poderes" de ROOT para
-instalar o gerenciador CHUPIM, então execute:
+Primeiramente vocÃª precisa dos "poderes" de ROOT para
+instalar o gerenciador CHUPIM, entÃ£o execute:
 
 su 
 
-quando aparecer "Password:" digite a senha do usuário ROOT.
+quando aparecer "Password:" digite a senha do usuÃ¡rio ROOT.
 
 
-Para instalar o gerenciador CHUPIM você precisa descompactar
+Para instalar o gerenciador CHUPIM vocÃª precisa descompactar
 a pasta Instalar-CHUPIM.tar para isso execute:
 
 tar -xvf Instalar-CHUPIM.tar
 
-Para execute o script de instalação do gerenciador CHUPIM
-primeiro você precisa dar premissão de execução para o ele
+Para execute o script de instalaÃ§Ã£o do gerenciador CHUPIM
+primeiro vocÃª precisa dar premissÃ£o de execuÃ§Ã£o para o ele
 com o comando:
 
 
 chmod +x INSTALAR-CHUPIM.sh
 
 
-e para executar o script de instalação execute este comando:
+e para executar o script de instalaÃ§Ã£o execute este comando:
 
 
 ./INSTALAR-CHUPIM.sh
@@ -45,10 +45,10 @@ e digitar:
 
 chupim
 
-quando aparecer "Password:" digite a senha do usuário ROOT.
+quando aparecer "Password:" digite a senha do usuÃ¡rio ROOT.
 
-Se você criou um atalho ele pode ser usado para iniciar
-o gerenciador CHUPIM também.
+Se vocÃª criou um atalho ele pode ser usado para iniciar
+o gerenciador CHUPIM tambÃ©m.
 
 
 
@@ -59,15 +59,15 @@ ____________________
 
 
 Ao iniciar o gerenciador CHUPIM a primeira tela mostrada serve para voce
-escolher o que gostaria de fazer. Escolhendo INSTALAR você será levado 
+escolher o que gostaria de fazer. Escolhendo INSTALAR vocÃª serÃ¡ levado 
 para o menu de escolha de categorias dos programas.
-Escolha uma categoria para continuar a instalação.
-Ao escolher a categoria desejada você será levado para o menu com 
+Escolha uma categoria para continuar a instalaÃ§Ã£o.
+Ao escolher a categoria desejada vocÃª serÃ¡ levado para o menu com 
 os nomes dos programas para serem instalados.
-Quando você escolher o nome do programa e apertar ENTER automaticamente
-o gerenciador CHUPIM iniciará o processo de procura por pacotes 
-necessários pelo programa que será instalado.
-Depois de baixar os pacotes necessários e instalá-los você verá
+Quando vocÃª escolher o nome do programa e apertar ENTER automaticamente
+o gerenciador CHUPIM iniciarÃ¡ o processo de procura por pacotes 
+necessÃ¡rios pelo programa que serÃ¡ instalado.
+Depois de baixar os pacotes necessÃ¡rios e instalÃ¡-los vocÃª verÃ¡
 uma mensagem dizendo que o programa escolhido foi instalado.
 
 
@@ -78,20 +78,20 @@ Desinstalando programas
 ____________________
 
 Ao iniciar o gerenciador CHUPIM a primeira tela mostrada serve para voce
-escolher o que gostaria de fazer. Escolhendo DESINSTALAR você será levado 
+escolher o que gostaria de fazer. Escolhendo DESINSTALAR vocÃª serÃ¡ levado 
 para o menu de escolha de categorias dos programas.
-Escolha uma categoria para continuar a desinstalação.
-Ao escolher a categoria desejada você será levado para o menu com 
+Escolha uma categoria para continuar a desinstalaÃ§Ã£o.
+Ao escolher a categoria desejada vocÃª serÃ¡ levado para o menu com 
 os nomes dos programas para serem desinstalados.
-Quando você escolher o nome do programa e apertar ENTER 
-o gerenciador CHUPIM pedirá uma confirmação antes de iniciar
-o processo de desinstalação, ao confirmar, automaticamente
-o gerenciador CHUPIM iniciará o processo de procura por pacotes 
-que serão desinstalados do seu sistema referente ao programa
-que você escolheu para desinstalar.
-Uma mensagem dizendo que o programa escolhido foi desinstalado será
+Quando vocÃª escolher o nome do programa e apertar ENTER 
+o gerenciador CHUPIM pedirÃ¡ uma confirmaÃ§Ã£o antes de iniciar
+o processo de desinstalaÃ§Ã£o, ao confirmar, automaticamente
+o gerenciador CHUPIM iniciarÃ¡ o processo de procura por pacotes 
+que serÃ£o desinstalados do seu sistema referente ao programa
+que vocÃª escolheu para desinstalar.
+Uma mensagem dizendo que o programa escolhido foi desinstalado serÃ¡
 mostrada ao final do processo.
 
 
 Ederson Santos
-guedeseder@hotmail.com
+ederson.santos.silva.42@gmail.com
