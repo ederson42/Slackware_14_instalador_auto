@@ -1,0 +1,67 @@
+
+Ajuda do gerenciador CHUPIM
+____________________
+
+Primeiro, um pouco de ajuda na ajuda. Sempre que você encontrar um texto
+como este durante a instalação, você pode mover se
+com os seguintes comandos:
+
+PGDN/SPACE     - Mover uma página para baixo
+PGUP/'b'       - Mover uma página para cima
+ENTER/DOWN/'j' - Mover uma linha para baixo
+UP/'k'         - Mover uma linha para cima
+LEFT/'h'       - Ir para a esquerda
+RIGHT/'l'      - Ir para a direita
+'0'            - Ir para o início da linha
+HOME/'g'       - Ir para o início do arquivo
+END/'G'        - Ir para o fim do arquivo
+'/'            - Buscar em frente
+'?'            - Buscar para trás 
+'n'            - Repetir última pesquisa (em frente) 
+
+
+
+Instalando programas
+____________________
+
+
+Ao iniciar o gerenciador CHUPIM a primeira tela mostrada serve para voce
+escolher o que gostaria de fazer. Escolhendo INSTALAR você será levado 
+para o menu de escolha de categorias dos programas.
+Escolha uma categoria para continuar a instalação.
+Ao escolher a categoria desejada você será levado para o menu com 
+os nomes dos programas para serem instalados.
+Quando você escolher o nome do programa e apertar ENTER automaticamente
+o gerenciador CHUPIM iniciará o processo de procura por pacotes 
+necessários pelo programa que será instalado.
+Depois de baixar os pacotes necessários e instalá-los você verá
+uma mensagem dizendo que o programa escolhido foi instalado.
+
+
+
+
+
+Desinstalando programas
+____________________
+
+Ao iniciar o gerenciador CHUPIM a primeira tela mostrada serve para voce
+escolher o que gostaria de fazer. Escolhendo DESINSTALAR você será levado 
+para o menu de escolha de categorias dos programas.
+Escolha uma categoria para continuar a desinstalação.
+Ao escolher a categoria desejada você será levado para o menu com 
+os nomes dos programas para serem desinstalados.
+Quando você escolher o nome do programa e apertar ENTER 
+o gerenciador CHUPIM pedirá uma confirmação antes de iniciar
+o processo de desinstalação, ao confirmar, automaticamente
+o gerenciador CHUPIM iniciará o processo de procura por pacotes 
+que serão desinstalados do seu sistema referente ao programa
+que você escolheu para desinstalar.
+Uma mensagem dizendo que o programa escolhido foi desinstalado será
+mostrada ao final do processo.
+
+
+
+
+
+Ederson Santos
+ederson.santos.silva.42@gmail.com
