@@ -1,3 +1,4 @@
+#linux #Slacware
 # Slackware_14_instalador_auto
 Programa em shellscript que busca dependências na internet para instalar programas no Slackware 14
 
